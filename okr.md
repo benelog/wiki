@@ -24,3 +24,4 @@ OKR은
 * [책으로 독학한 OKR이 실패하는 이유](https://ppss.kr/archives/213815)
 * [OKRs Playbook](https://blog.naver.com/sungjucho/221867167471)
 * [한화·SK그룹이 KPI대신 도입한 OKR, 뭐길래?](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=050&aid=0000052747&sid1=001)
+* [OKR 도입 후,조직이 쉽게 변하지 않는 이유](https://brunch.co.kr/@simmani2013/131)
