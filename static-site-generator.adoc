@@ -1,0 +1,8 @@
+* https://orchid.run/
+* https://antora.org/
+* http://octopress.org/
+* https://hexo.io/
+* http://jekyllbootstrap.com/
+* https://blog.getpelican.com/
+* https://funbook.js.org/
+* https://flybook.js.org/
