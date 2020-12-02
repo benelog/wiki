@@ -6,3 +6,6 @@
 * https://blog.getpelican.com/
 * https://funbook.js.org/
 * https://flybook.js.org/
+* https://github.com/wiztools/stagen
+* https://nakkaya.com/
+* https://github.com/sysgears/grain
