@@ -9,3 +9,20 @@
 * https://github.com/wiztools/stagen
 * https://nakkaya.com/
 * https://github.com/sysgears/grain
+* WordPress
+* Blogger
+* Tumblr
+* Squarespace
+* TypePad
+* Movable Type
+* Drupal
+* Joomla
+* Wix
+* Weebly
+* Strikingly
+* HubSpot
+* Shopify
+* Adobe Muse
+* Jimdo
+* Postach.io
+* Pattern
