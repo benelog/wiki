@@ -13,11 +13,12 @@ OKR은
     * 정량적. 목표 잘성의 핵심 지표
     * SMART : 구체적(S), 측정 가능(M), 성취 가능(A), 관련성(R), 시기(T)이 있어야함.
 * 차이점
-    * 더 도전적인 목표를 설정하게 끔 유도. (목표를 70% 달성해도 성공일수 있다.)
+    * 더 도전적인 목표를 설정하게 끔 유도. (목표를 70% 달성해도 성공일 수 있다.)
     * 더 짧은 주기, 지속적으로 결과를 돌아봄. (예: 구글의 3-3-3 원식 ( 3개월마다 팀과 개인 단위로 목표 3개와 핵심 결과 3개를 정하고 성과를 평가하는 방식). 진척상황 공유나 칭찬.
     * 조직 차원의 큰 목표 아래에 구성원이 자발적으로 세부 목표를 설정하는 쌍방향 방식.
 
 ## 참고 자료
+* [Google's OKR playbook](https://www.whatmatters.com/resources/google-okr-playbook/)
 * [지식 백과 OKR](https://terms.naver.com/entry.nhn?docId=5883485&cid=43667&categoryId=43667)
 * [구글의 목표 달성 방식 OKR!](http://blog.naver.com/daishin_blog/221515120444)
 * [FAQ로 풀어본 ‘OKR’ 현장 이야기](http://www.ciokorea.com/news/125708)
