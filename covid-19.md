@@ -1,5 +1,8 @@
 tags: #과학
 
+
+- ["코로나19 감염 시 심근염 위험, 화이자·모더나 백신 접종 때보다 더 높다" 美 CDC 연구](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=104&oid=277&aid=0005067904)
+- 
 ## 교차 접종
 - [3차 모더나 교차접종 발열 부작용 높아](http://www.bosa.co.kr/news/articleView.html?idxno=2168600)
 	- 일본 준텐도대 연구팀
