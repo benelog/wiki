@@ -1,3 +1,5 @@
+tags: #과학
+
 ## 교차 접종
 - [3차 모더나 교차접종 발열 부작용 높아](http://www.bosa.co.kr/news/articleView.html?idxno=2168600)
 	- 일본 준텐도대 연구팀
