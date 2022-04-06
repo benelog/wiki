@@ -32,4 +32,4 @@ tags: #경영
 * [OKR을 제대로 작성하고 사용하는 방법](https://brunch.co.kr/@tanagement/183)
 	* key result는 통제가능한 활동(Output)이 아니라, 통제 불가능한 성과 결과(Outcomt)이어야 한다.
 	* Key result와 Initiative 구분하기
-* [# OKR과 Initiative(이니셔티브) 개념 및 간단 예시](https://alignup.io/posts/131)
+* [OKR과 Initiative(이니셔티브) 개념 및 간단 예시](https://alignup.io/posts/131)
