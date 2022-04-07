@@ -21,6 +21,7 @@ tags: #경영
     * 조직 차원의 큰 목표 아래에 구성원이 자발적으로 세부 목표를 설정하는 쌍방향 방식.
 
 ## 참고 자료
+* [OKRs in 30 seconds](https://critter.blog/2022/02/18/okrs-in-30-seconds/)
 * [Google's OKR playbook](https://www.whatmatters.com/resources/google-okr-playbook/)
 * [지식 백과 OKR](https://terms.naver.com/entry.nhn?docId=5883485&cid=43667&categoryId=43667)
 * [구글의 목표 달성 방식 OKR!](http://blog.naver.com/daishin_blog/221515120444)
@@ -33,3 +34,4 @@ tags: #경영
 	* key result는 통제가능한 활동(Output)이 아니라, 통제 불가능한 성과 결과(Outcomt)이어야 한다.
 	* Key result와 Initiative 구분하기
 * [OKR과 Initiative(이니셔티브) 개념 및 간단 예시](https://alignup.io/posts/131)
+* [OKR에서 개인 Objective가 꼭 필요한가요?](https://alignup.io/posts/149)
