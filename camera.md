@@ -1,7 +1,6 @@
 [http://www.konbau.com/xe/61395](http://www.konbau.com/xe/61395)
 
   
-
   
 
 AF : Auto focusing
