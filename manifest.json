@@ -1,0 +1,15 @@
+{
+  "name": "📓 wiki.benelog.net",
+  "short_name": "📓 wiki.benelog.net",
+  "start_url": "/wiki/",
+  "scope": "/wiki/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/wiki/favicon.png",
+      "sizes": "1024x1024"
+    }
+  ]
+}
