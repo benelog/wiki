@@ -87,9 +87,9 @@ params:
   # Footer links
   links:
     - link_name: Website
-      link: https://bencuan.me
+      link: https://benelog.net
     - link_name: Blog
-      link: https://blog.bencuan.me
+      link: https://blog.benelog.net
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
