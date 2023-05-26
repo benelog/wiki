@@ -1,0 +1,1241 @@
+{
+  "index": {
+    "links": {
+      "/%EA%B0%80%EC%A0%95": [
+        {
+          "source": "/%EA%B0%80%EC%A0%95",
+          "target": "/%EC%9C%A1%EC%95%84",
+          "text": "육아"
+        }
+      ],
+      "/%EA%B2%BD%EC%98%81": [
+        {
+          "source": "/%EA%B2%BD%EC%98%81",
+          "target": "/%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94",
+          "text": "조직문화"
+        },
+        {
+          "source": "/%EA%B2%BD%EC%98%81",
+          "target": "/okr",
+          "text": "okr"
+        },
+        {
+          "source": "/%EA%B2%BD%EC%98%81",
+          "target": "/%EB%A6%AC%EB%8D%94%EC%8B%AD",
+          "text": "리더십"
+        },
+        {
+          "source": "/%EA%B2%BD%EC%98%81",
+          "target": "/%EA%B2%BD%EC%98%81-%EB%AA%85%EC%96%B8",
+          "text": "경영-명언"
+        },
+        {
+          "source": "/%EA%B2%BD%EC%98%81",
+          "target": "/spotify",
+          "text": "spotify"
+        }
+      ],
+      "/%EA%B3%BC%ED%95%99": [
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/%EC%A7%84%ED%99%94",
+          "text": "진화"
+        },
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/%EB%B0%9C%EB%AA%85",
+          "text": "발명"
+        },
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/%EC%9A%B0%EC%A3%BC",
+          "text": "우주"
+        },
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/%ED%86%B5%EA%B3%84%ED%95%99",
+          "text": "통계학"
+        },
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/%EA%B1%B4%EC%B6%95",
+          "text": "건축"
+        },
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/covid-19",
+          "text": "covid-19"
+        }
+      ],
+      "/%EB%87%8C": [
+        {
+          "source": "/%EB%87%8C",
+          "target": "/%EC%8B%AC%EB%A6%AC",
+          "text": "심리"
+        },
+        {
+          "source": "/%EB%87%8C",
+          "target": "/%EC%B0%BD%EC%9D%98%EC%84%B1",
+          "text": "창의성"
+        },
+        {
+          "source": "/%EB%87%8C",
+          "target": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "text": "생산성"
+        },
+        {
+          "source": "/%EB%87%8C",
+          "target": "/%EC%8A%B5%EA%B4%80",
+          "text": "습관"
+        },
+        {
+          "source": "/%EB%87%8C",
+          "target": "/%ED%95%99%EC%8A%B5",
+          "text": "학습"
+        }
+      ],
+      "/%EB%8F%85%EC%84%9C": [
+        {
+          "source": "/%EB%8F%85%EC%84%9C",
+          "target": "/%EB%8F%85%EC%84%9C-%EB%AA%85%EC%96%B8",
+          "text": "독서-명언"
+        },
+        {
+          "source": "/%EB%8F%85%EC%84%9C",
+          "target": "/book-scan",
+          "text": "book-scan"
+        },
+        {
+          "source": "/%EB%8F%85%EC%84%9C",
+          "target": "/%EC%A2%8B%EC%9D%80-%EA%B8%80",
+          "text": "좋은-글"
+        }
+      ],
+      "/%EB%A6%AC%EB%8D%94%EC%8B%AD": [
+        {
+          "source": "/%EB%A6%AC%EB%8D%94%EC%8B%AD",
+          "target": "/coaching",
+          "text": "coaching"
+        },
+        {
+          "source": "/%EB%A6%AC%EB%8D%94%EC%8B%AD",
+          "target": "/%EC%9E%84%EC%9B%90-%EC%BD%94%EC%B9%AD-%EB%A9%94%EB%AA%A8",
+          "text": "임원-코칭-메모"
+        }
+      ],
+      "/%EB%AA%85%EC%96%B8": [
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EA%B0%80%EC%B9%98%EA%B4%80-%EB%AA%85%EC%96%B8",
+          "text": "가치관-명언"
+        },
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EA%B2%BD%EC%98%81-%EB%AA%85%EC%96%B8",
+          "text": "경영-명언"
+        },
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EC%A2%85%EA%B5%90-%EB%AA%85%EC%96%B8",
+          "text": "종교-명언"
+        },
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EB%A7%8C%ED%99%94-%EB%AA%85%EB%8C%80%EC%82%AC",
+          "text": "만화-명대사"
+        },
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EC%98%81%ED%99%94-%EB%AA%85%EB%8C%80%EC%82%AC",
+          "text": "영화-명대사"
+        },
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EA%B5%90%EC%9C%A1-%EB%AA%85%EC%96%B8",
+          "text": "교육-명언"
+        },
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EB%8F%85%EC%84%9C-%EB%AA%85%EC%96%B8",
+          "text": "독서-명언"
+        },
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EA%B8%80%EC%93%B0%EA%B8%B0-%EB%AA%85%EC%96%B8",
+          "text": "글쓰기-명언"
+        }
+      ],
+      "/%EB%B0%9C%EB%AA%85": [
+        {
+          "source": "/%EB%B0%9C%EB%AA%85",
+          "target": "/%EB%A9%94%EC%9D%B4%EC%BB%A4",
+          "text": "메이커"
+        }
+      ],
+      "/%EB%B0%9C%ED%91%9C-%EA%B8%B0%EC%88%A0": [
+        {
+          "source": "/%EB%B0%9C%ED%91%9C-%EA%B8%B0%EC%88%A0",
+          "target": "/image-source",
+          "text": "image-source"
+        }
+      ],
+      "/%EC%82%AC%ED%9A%8C": [
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EC%A0%95%EC%B9%98",
+          "text": "정치"
+        },
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EA%B2%BD%EC%A0%9C",
+          "text": "경제"
+        },
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EC%A2%85%EA%B5%90",
+          "text": "종교"
+        },
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EB%B6%88%ED%8F%89%EB%93%B1",
+          "text": "불평등"
+        },
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EA%B5%90%EC%9C%A1",
+          "text": "교육"
+        },
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EA%B0%80%EC%A0%95",
+          "text": "가정"
+        },
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EC%84%B1",
+          "text": "성"
+        },
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EC%A3%BD%EC%9D%8C",
+          "text": "죽음"
+        }
+      ],
+      "/%EC%83%9D%EC%82%B0%EC%84%B1": [
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/%EC%B0%BD%EC%9D%98%EC%84%B1",
+          "text": "창의성"
+        },
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/%EB%B0%9C%ED%91%9C-%EA%B8%B0%EC%88%A0",
+          "text": "발표-기술"
+        },
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/%ED%98%91%EC%97%85%EB%8F%84%EA%B5%AC",
+          "text": "협업도구"
+        },
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0",
+          "text": "생산성-개선"
+        },
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/%EC%B4%88%EA%B3%BC%EA%B7%BC%EB%AC%B4",
+          "text": "초과근무"
+        },
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/multitasking",
+          "text": "multitasking"
+        }
+      ],
+      "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0": [
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0",
+          "target": "/mindmap",
+          "text": "mindmap"
+        },
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0",
+          "target": "/sound",
+          "text": "sound"
+        }
+      ],
+      "/%EC%8B%AC%EB%A6%AC": [
+        {
+          "source": "/%EC%8B%AC%EB%A6%AC",
+          "target": "/%EC%8A%B5%EA%B4%80",
+          "text": "습관"
+        },
+        {
+          "source": "/%EC%8B%AC%EB%A6%AC",
+          "target": "/%EB%8F%99%EA%B8%B0-%EC%9C%A0%EB%B0%9C-%EC%82%AC%EB%A1%80",
+          "text": "동기-유발-사례"
+        },
+        {
+          "source": "/%EC%8B%AC%EB%A6%AC",
+          "target": "/%EC%9A%B4%EB%8F%99",
+          "text": "운동"
+        }
+      ],
+      "/%EC%9A%B4%EB%8F%99": [
+        {
+          "source": "/%EC%9A%B4%EB%8F%99",
+          "target": "/%EB%8B%AC%EB%A6%AC%EA%B8%B0",
+          "text": "달리기"
+        },
+        {
+          "source": "/%EC%9A%B4%EB%8F%99",
+          "target": "/%EC%95%BC%EA%B5%AC",
+          "text": "야구"
+        }
+      ],
+      "/%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-%EA%B8%B0%EB%B2%95": [
+        {
+          "source": "/%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-%EA%B8%B0%EB%B2%95",
+          "target": "/%ED%8C%A8%ED%84%B4-%EA%B0%9C%EC%84%A0-%EB%AA%A8%EC%9E%84",
+          "text": "패턴-개선-모임"
+        },
+        {
+          "source": "/%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-%EA%B8%B0%EB%B2%95",
+          "target": "/mindmap",
+          "text": "mindmap"
+        }
+      ],
+      "/%EC%B6%94%EC%B2%9C-%EA%B0%95%EC%9D%98": [
+        {
+          "source": "/%EC%B6%94%EC%B2%9C-%EA%B0%95%EC%9D%98",
+          "target": "/%EC%8B%9C%EA%B3%A8%EC%9D%98%EC%82%AC",
+          "text": "시골의사"
+        }
+      ],
+      "/%EC%B7%A8%EB%AF%B8": [
+        {
+          "source": "/%EC%B7%A8%EB%AF%B8",
+          "target": "/camera",
+          "text": "camera"
+        },
+        {
+          "source": "/%EC%B7%A8%EB%AF%B8",
+          "target": "/%EC%88%A0",
+          "text": "술"
+        },
+        {
+          "source": "/%EC%B7%A8%EB%AF%B8",
+          "target": "/%EB%8B%AC%EB%A6%AC%EA%B8%B0",
+          "text": "달리기"
+        },
+        {
+          "source": "/%EC%B7%A8%EB%AF%B8",
+          "target": "/game",
+          "text": "game"
+        },
+        {
+          "source": "/%EC%B7%A8%EB%AF%B8",
+          "target": "/%EB%8F%85%EC%84%9C",
+          "text": "독서"
+        }
+      ],
+      "/%ED%86%B5%EA%B3%84%ED%95%99": [
+        {
+          "source": "/%ED%86%B5%EA%B3%84%ED%95%99",
+          "target": "/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EB%A1%80",
+          "text": "빅데이터-사례"
+        }
+      ],
+      "/%ED%95%99%EC%8A%B5": [
+        {
+          "source": "/%ED%95%99%EC%8A%B5",
+          "target": "/%EC%B6%94%EC%B2%9C-%EA%B0%95%EC%9D%98",
+          "text": "추천-강의"
+        }
+      ],
+      "/00-ROOT": [
+        {
+          "source": "/00-ROOT",
+          "target": "/%EA%B3%BC%ED%95%99",
+          "text": "과학"
+        },
+        {
+          "source": "/00-ROOT",
+          "target": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "text": "생산성"
+        },
+        {
+          "source": "/00-ROOT",
+          "target": "/%EB%AA%85%EC%96%B8",
+          "text": "명언"
+        },
+        {
+          "source": "/00-ROOT",
+          "target": "/%EC%82%AC%ED%9A%8C",
+          "text": "사회"
+        },
+        {
+          "source": "/00-ROOT",
+          "target": "/%EC%B7%A8%EB%AF%B8",
+          "text": "취미"
+        }
+      ],
+      "/hardware": [
+        {
+          "source": "/hardware",
+          "target": "/camera",
+          "text": "camera"
+        },
+        {
+          "source": "/hardware",
+          "target": "/%EC%9E%90%EB%8F%99%EC%B0%A8",
+          "text": "자동차"
+        },
+        {
+          "source": "/hardware",
+          "target": "/book-scan",
+          "text": "book-scan"
+        }
+      ]
+    },
+    "backlinks": {
+      "/%EA%B0%80%EC%A0%95": [
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EA%B0%80%EC%A0%95",
+          "text": "가정"
+        }
+      ],
+      "/%EA%B0%80%EC%B9%98%EA%B4%80-%EB%AA%85%EC%96%B8": [
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EA%B0%80%EC%B9%98%EA%B4%80-%EB%AA%85%EC%96%B8",
+          "text": "가치관-명언"
+        }
+      ],
+      "/%EA%B1%B4%EC%B6%95": [
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/%EA%B1%B4%EC%B6%95",
+          "text": "건축"
+        }
+      ],
+      "/%EA%B2%BD%EC%98%81-%EB%AA%85%EC%96%B8": [
+        {
+          "source": "/%EA%B2%BD%EC%98%81",
+          "target": "/%EA%B2%BD%EC%98%81-%EB%AA%85%EC%96%B8",
+          "text": "경영-명언"
+        },
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EA%B2%BD%EC%98%81-%EB%AA%85%EC%96%B8",
+          "text": "경영-명언"
+        }
+      ],
+      "/%EA%B2%BD%EC%A0%9C": [
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EA%B2%BD%EC%A0%9C",
+          "text": "경제"
+        }
+      ],
+      "/%EA%B3%BC%ED%95%99": [
+        {
+          "source": "/00-ROOT",
+          "target": "/%EA%B3%BC%ED%95%99",
+          "text": "과학"
+        }
+      ],
+      "/%EA%B5%90%EC%9C%A1": [
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EA%B5%90%EC%9C%A1",
+          "text": "교육"
+        }
+      ],
+      "/%EA%B5%90%EC%9C%A1-%EB%AA%85%EC%96%B8": [
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EA%B5%90%EC%9C%A1-%EB%AA%85%EC%96%B8",
+          "text": "교육-명언"
+        }
+      ],
+      "/%EA%B8%80%EC%93%B0%EA%B8%B0-%EB%AA%85%EC%96%B8": [
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EA%B8%80%EC%93%B0%EA%B8%B0-%EB%AA%85%EC%96%B8",
+          "text": "글쓰기-명언"
+        }
+      ],
+      "/%EB%8B%AC%EB%A6%AC%EA%B8%B0": [
+        {
+          "source": "/%EC%9A%B4%EB%8F%99",
+          "target": "/%EB%8B%AC%EB%A6%AC%EA%B8%B0",
+          "text": "달리기"
+        },
+        {
+          "source": "/%EC%B7%A8%EB%AF%B8",
+          "target": "/%EB%8B%AC%EB%A6%AC%EA%B8%B0",
+          "text": "달리기"
+        }
+      ],
+      "/%EB%8F%85%EC%84%9C": [
+        {
+          "source": "/%EC%B7%A8%EB%AF%B8",
+          "target": "/%EB%8F%85%EC%84%9C",
+          "text": "독서"
+        }
+      ],
+      "/%EB%8F%85%EC%84%9C-%EB%AA%85%EC%96%B8": [
+        {
+          "source": "/%EB%8F%85%EC%84%9C",
+          "target": "/%EB%8F%85%EC%84%9C-%EB%AA%85%EC%96%B8",
+          "text": "독서-명언"
+        },
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EB%8F%85%EC%84%9C-%EB%AA%85%EC%96%B8",
+          "text": "독서-명언"
+        }
+      ],
+      "/%EB%8F%99%EA%B8%B0-%EC%9C%A0%EB%B0%9C-%EC%82%AC%EB%A1%80": [
+        {
+          "source": "/%EC%8B%AC%EB%A6%AC",
+          "target": "/%EB%8F%99%EA%B8%B0-%EC%9C%A0%EB%B0%9C-%EC%82%AC%EB%A1%80",
+          "text": "동기-유발-사례"
+        }
+      ],
+      "/%EB%A6%AC%EB%8D%94%EC%8B%AD": [
+        {
+          "source": "/%EA%B2%BD%EC%98%81",
+          "target": "/%EB%A6%AC%EB%8D%94%EC%8B%AD",
+          "text": "리더십"
+        }
+      ],
+      "/%EB%A7%8C%ED%99%94-%EB%AA%85%EB%8C%80%EC%82%AC": [
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EB%A7%8C%ED%99%94-%EB%AA%85%EB%8C%80%EC%82%AC",
+          "text": "만화-명대사"
+        }
+      ],
+      "/%EB%A9%94%EC%9D%B4%EC%BB%A4": [
+        {
+          "source": "/%EB%B0%9C%EB%AA%85",
+          "target": "/%EB%A9%94%EC%9D%B4%EC%BB%A4",
+          "text": "메이커"
+        }
+      ],
+      "/%EB%AA%85%EC%96%B8": [
+        {
+          "source": "/00-ROOT",
+          "target": "/%EB%AA%85%EC%96%B8",
+          "text": "명언"
+        }
+      ],
+      "/%EB%B0%9C%EB%AA%85": [
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/%EB%B0%9C%EB%AA%85",
+          "text": "발명"
+        }
+      ],
+      "/%EB%B0%9C%ED%91%9C-%EA%B8%B0%EC%88%A0": [
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/%EB%B0%9C%ED%91%9C-%EA%B8%B0%EC%88%A0",
+          "text": "발표-기술"
+        }
+      ],
+      "/%EB%B6%88%ED%8F%89%EB%93%B1": [
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EB%B6%88%ED%8F%89%EB%93%B1",
+          "text": "불평등"
+        }
+      ],
+      "/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EB%A1%80": [
+        {
+          "source": "/%ED%86%B5%EA%B3%84%ED%95%99",
+          "target": "/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EB%A1%80",
+          "text": "빅데이터-사례"
+        }
+      ],
+      "/%EC%82%AC%ED%9A%8C": [
+        {
+          "source": "/00-ROOT",
+          "target": "/%EC%82%AC%ED%9A%8C",
+          "text": "사회"
+        }
+      ],
+      "/%EC%83%9D%EC%82%B0%EC%84%B1": [
+        {
+          "source": "/00-ROOT",
+          "target": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "text": "생산성"
+        },
+        {
+          "source": "/%EB%87%8C",
+          "target": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "text": "생산성"
+        }
+      ],
+      "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0": [
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0",
+          "text": "생산성-개선"
+        }
+      ],
+      "/%EC%84%B1": [
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EC%84%B1",
+          "text": "성"
+        }
+      ],
+      "/%EC%88%A0": [
+        {
+          "source": "/%EC%B7%A8%EB%AF%B8",
+          "target": "/%EC%88%A0",
+          "text": "술"
+        }
+      ],
+      "/%EC%8A%B5%EA%B4%80": [
+        {
+          "source": "/%EB%87%8C",
+          "target": "/%EC%8A%B5%EA%B4%80",
+          "text": "습관"
+        },
+        {
+          "source": "/%EC%8B%AC%EB%A6%AC",
+          "target": "/%EC%8A%B5%EA%B4%80",
+          "text": "습관"
+        }
+      ],
+      "/%EC%8B%9C%EA%B3%A8%EC%9D%98%EC%82%AC": [
+        {
+          "source": "/%EC%B6%94%EC%B2%9C-%EA%B0%95%EC%9D%98",
+          "target": "/%EC%8B%9C%EA%B3%A8%EC%9D%98%EC%82%AC",
+          "text": "시골의사"
+        }
+      ],
+      "/%EC%8B%AC%EB%A6%AC": [
+        {
+          "source": "/%EB%87%8C",
+          "target": "/%EC%8B%AC%EB%A6%AC",
+          "text": "심리"
+        }
+      ],
+      "/%EC%95%BC%EA%B5%AC": [
+        {
+          "source": "/%EC%9A%B4%EB%8F%99",
+          "target": "/%EC%95%BC%EA%B5%AC",
+          "text": "야구"
+        }
+      ],
+      "/%EC%98%81%ED%99%94-%EB%AA%85%EB%8C%80%EC%82%AC": [
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EC%98%81%ED%99%94-%EB%AA%85%EB%8C%80%EC%82%AC",
+          "text": "영화-명대사"
+        }
+      ],
+      "/%EC%9A%B0%EC%A3%BC": [
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/%EC%9A%B0%EC%A3%BC",
+          "text": "우주"
+        }
+      ],
+      "/%EC%9A%B4%EB%8F%99": [
+        {
+          "source": "/%EC%8B%AC%EB%A6%AC",
+          "target": "/%EC%9A%B4%EB%8F%99",
+          "text": "운동"
+        }
+      ],
+      "/%EC%9C%A1%EC%95%84": [
+        {
+          "source": "/%EA%B0%80%EC%A0%95",
+          "target": "/%EC%9C%A1%EC%95%84",
+          "text": "육아"
+        }
+      ],
+      "/%EC%9E%84%EC%9B%90-%EC%BD%94%EC%B9%AD-%EB%A9%94%EB%AA%A8": [
+        {
+          "source": "/%EB%A6%AC%EB%8D%94%EC%8B%AD",
+          "target": "/%EC%9E%84%EC%9B%90-%EC%BD%94%EC%B9%AD-%EB%A9%94%EB%AA%A8",
+          "text": "임원-코칭-메모"
+        }
+      ],
+      "/%EC%9E%90%EB%8F%99%EC%B0%A8": [
+        {
+          "source": "/hardware",
+          "target": "/%EC%9E%90%EB%8F%99%EC%B0%A8",
+          "text": "자동차"
+        }
+      ],
+      "/%EC%A0%95%EC%B9%98": [
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EC%A0%95%EC%B9%98",
+          "text": "정치"
+        }
+      ],
+      "/%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94": [
+        {
+          "source": "/%EA%B2%BD%EC%98%81",
+          "target": "/%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94",
+          "text": "조직문화"
+        }
+      ],
+      "/%EC%A2%85%EA%B5%90": [
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EC%A2%85%EA%B5%90",
+          "text": "종교"
+        }
+      ],
+      "/%EC%A2%85%EA%B5%90-%EB%AA%85%EC%96%B8": [
+        {
+          "source": "/%EB%AA%85%EC%96%B8",
+          "target": "/%EC%A2%85%EA%B5%90-%EB%AA%85%EC%96%B8",
+          "text": "종교-명언"
+        }
+      ],
+      "/%EC%A2%8B%EC%9D%80-%EA%B8%80": [
+        {
+          "source": "/%EB%8F%85%EC%84%9C",
+          "target": "/%EC%A2%8B%EC%9D%80-%EA%B8%80",
+          "text": "좋은-글"
+        }
+      ],
+      "/%EC%A3%BD%EC%9D%8C": [
+        {
+          "source": "/%EC%82%AC%ED%9A%8C",
+          "target": "/%EC%A3%BD%EC%9D%8C",
+          "text": "죽음"
+        }
+      ],
+      "/%EC%A7%84%ED%99%94": [
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/%EC%A7%84%ED%99%94",
+          "text": "진화"
+        }
+      ],
+      "/%EC%B0%BD%EC%9D%98%EC%84%B1": [
+        {
+          "source": "/%EB%87%8C",
+          "target": "/%EC%B0%BD%EC%9D%98%EC%84%B1",
+          "text": "창의성"
+        },
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/%EC%B0%BD%EC%9D%98%EC%84%B1",
+          "text": "창의성"
+        }
+      ],
+      "/%EC%B4%88%EA%B3%BC%EA%B7%BC%EB%AC%B4": [
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/%EC%B4%88%EA%B3%BC%EA%B7%BC%EB%AC%B4",
+          "text": "초과근무"
+        }
+      ],
+      "/%EC%B6%94%EC%B2%9C-%EA%B0%95%EC%9D%98": [
+        {
+          "source": "/%ED%95%99%EC%8A%B5",
+          "target": "/%EC%B6%94%EC%B2%9C-%EA%B0%95%EC%9D%98",
+          "text": "추천-강의"
+        }
+      ],
+      "/%EC%B7%A8%EB%AF%B8": [
+        {
+          "source": "/00-ROOT",
+          "target": "/%EC%B7%A8%EB%AF%B8",
+          "text": "취미"
+        }
+      ],
+      "/%ED%86%B5%EA%B3%84%ED%95%99": [
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/%ED%86%B5%EA%B3%84%ED%95%99",
+          "text": "통계학"
+        }
+      ],
+      "/%ED%8C%A8%ED%84%B4-%EA%B0%9C%EC%84%A0-%EB%AA%A8%EC%9E%84": [
+        {
+          "source": "/%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-%EA%B8%B0%EB%B2%95",
+          "target": "/%ED%8C%A8%ED%84%B4-%EA%B0%9C%EC%84%A0-%EB%AA%A8%EC%9E%84",
+          "text": "패턴-개선-모임"
+        }
+      ],
+      "/%ED%95%99%EC%8A%B5": [
+        {
+          "source": "/%EB%87%8C",
+          "target": "/%ED%95%99%EC%8A%B5",
+          "text": "학습"
+        }
+      ],
+      "/%ED%98%91%EC%97%85%EB%8F%84%EA%B5%AC": [
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/%ED%98%91%EC%97%85%EB%8F%84%EA%B5%AC",
+          "text": "협업도구"
+        }
+      ],
+      "/book-scan": [
+        {
+          "source": "/hardware",
+          "target": "/book-scan",
+          "text": "book-scan"
+        },
+        {
+          "source": "/%EB%8F%85%EC%84%9C",
+          "target": "/book-scan",
+          "text": "book-scan"
+        }
+      ],
+      "/camera": [
+        {
+          "source": "/hardware",
+          "target": "/camera",
+          "text": "camera"
+        },
+        {
+          "source": "/%EC%B7%A8%EB%AF%B8",
+          "target": "/camera",
+          "text": "camera"
+        }
+      ],
+      "/coaching": [
+        {
+          "source": "/%EB%A6%AC%EB%8D%94%EC%8B%AD",
+          "target": "/coaching",
+          "text": "coaching"
+        }
+      ],
+      "/covid-19": [
+        {
+          "source": "/%EA%B3%BC%ED%95%99",
+          "target": "/covid-19",
+          "text": "covid-19"
+        }
+      ],
+      "/game": [
+        {
+          "source": "/%EC%B7%A8%EB%AF%B8",
+          "target": "/game",
+          "text": "game"
+        }
+      ],
+      "/image-source": [
+        {
+          "source": "/%EB%B0%9C%ED%91%9C-%EA%B8%B0%EC%88%A0",
+          "target": "/image-source",
+          "text": "image-source"
+        }
+      ],
+      "/mindmap": [
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0",
+          "target": "/mindmap",
+          "text": "mindmap"
+        },
+        {
+          "source": "/%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-%EA%B8%B0%EB%B2%95",
+          "target": "/mindmap",
+          "text": "mindmap"
+        }
+      ],
+      "/multitasking": [
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+          "target": "/multitasking",
+          "text": "multitasking"
+        }
+      ],
+      "/okr": [
+        {
+          "source": "/%EA%B2%BD%EC%98%81",
+          "target": "/okr",
+          "text": "okr"
+        }
+      ],
+      "/sound": [
+        {
+          "source": "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0",
+          "target": "/sound",
+          "text": "sound"
+        }
+      ],
+      "/spotify": [
+        {
+          "source": "/%EA%B2%BD%EC%98%81",
+          "target": "/spotify",
+          "text": "spotify"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/00-ROOT",
+      "target": "/%EA%B3%BC%ED%95%99",
+      "text": "과학"
+    },
+    {
+      "source": "/00-ROOT",
+      "target": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+      "text": "생산성"
+    },
+    {
+      "source": "/00-ROOT",
+      "target": "/%EB%AA%85%EC%96%B8",
+      "text": "명언"
+    },
+    {
+      "source": "/00-ROOT",
+      "target": "/%EC%82%AC%ED%9A%8C",
+      "text": "사회"
+    },
+    {
+      "source": "/00-ROOT",
+      "target": "/%EC%B7%A8%EB%AF%B8",
+      "text": "취미"
+    },
+    {
+      "source": "/hardware",
+      "target": "/camera",
+      "text": "camera"
+    },
+    {
+      "source": "/hardware",
+      "target": "/%EC%9E%90%EB%8F%99%EC%B0%A8",
+      "text": "자동차"
+    },
+    {
+      "source": "/hardware",
+      "target": "/book-scan",
+      "text": "book-scan"
+    },
+    {
+      "source": "/%EA%B0%80%EC%A0%95",
+      "target": "/%EC%9C%A1%EC%95%84",
+      "text": "육아"
+    },
+    {
+      "source": "/%EA%B2%BD%EC%98%81",
+      "target": "/%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94",
+      "text": "조직문화"
+    },
+    {
+      "source": "/%EA%B2%BD%EC%98%81",
+      "target": "/okr",
+      "text": "okr"
+    },
+    {
+      "source": "/%EA%B2%BD%EC%98%81",
+      "target": "/%EB%A6%AC%EB%8D%94%EC%8B%AD",
+      "text": "리더십"
+    },
+    {
+      "source": "/%EA%B2%BD%EC%98%81",
+      "target": "/%EA%B2%BD%EC%98%81-%EB%AA%85%EC%96%B8",
+      "text": "경영-명언"
+    },
+    {
+      "source": "/%EA%B2%BD%EC%98%81",
+      "target": "/spotify",
+      "text": "spotify"
+    },
+    {
+      "source": "/%EA%B3%BC%ED%95%99",
+      "target": "/%EC%A7%84%ED%99%94",
+      "text": "진화"
+    },
+    {
+      "source": "/%EA%B3%BC%ED%95%99",
+      "target": "/%EB%B0%9C%EB%AA%85",
+      "text": "발명"
+    },
+    {
+      "source": "/%EA%B3%BC%ED%95%99",
+      "target": "/%EC%9A%B0%EC%A3%BC",
+      "text": "우주"
+    },
+    {
+      "source": "/%EA%B3%BC%ED%95%99",
+      "target": "/%ED%86%B5%EA%B3%84%ED%95%99",
+      "text": "통계학"
+    },
+    {
+      "source": "/%EA%B3%BC%ED%95%99",
+      "target": "/%EA%B1%B4%EC%B6%95",
+      "text": "건축"
+    },
+    {
+      "source": "/%EA%B3%BC%ED%95%99",
+      "target": "/covid-19",
+      "text": "covid-19"
+    },
+    {
+      "source": "/%EB%87%8C",
+      "target": "/%EC%8B%AC%EB%A6%AC",
+      "text": "심리"
+    },
+    {
+      "source": "/%EB%87%8C",
+      "target": "/%EC%B0%BD%EC%9D%98%EC%84%B1",
+      "text": "창의성"
+    },
+    {
+      "source": "/%EB%87%8C",
+      "target": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+      "text": "생산성"
+    },
+    {
+      "source": "/%EB%87%8C",
+      "target": "/%EC%8A%B5%EA%B4%80",
+      "text": "습관"
+    },
+    {
+      "source": "/%EB%87%8C",
+      "target": "/%ED%95%99%EC%8A%B5",
+      "text": "학습"
+    },
+    {
+      "source": "/%EB%8F%85%EC%84%9C",
+      "target": "/%EB%8F%85%EC%84%9C-%EB%AA%85%EC%96%B8",
+      "text": "독서-명언"
+    },
+    {
+      "source": "/%EB%8F%85%EC%84%9C",
+      "target": "/book-scan",
+      "text": "book-scan"
+    },
+    {
+      "source": "/%EB%8F%85%EC%84%9C",
+      "target": "/%EC%A2%8B%EC%9D%80-%EA%B8%80",
+      "text": "좋은-글"
+    },
+    {
+      "source": "/%EB%A6%AC%EB%8D%94%EC%8B%AD",
+      "target": "/coaching",
+      "text": "coaching"
+    },
+    {
+      "source": "/%EB%A6%AC%EB%8D%94%EC%8B%AD",
+      "target": "/%EC%9E%84%EC%9B%90-%EC%BD%94%EC%B9%AD-%EB%A9%94%EB%AA%A8",
+      "text": "임원-코칭-메모"
+    },
+    {
+      "source": "/%EB%AA%85%EC%96%B8",
+      "target": "/%EA%B0%80%EC%B9%98%EA%B4%80-%EB%AA%85%EC%96%B8",
+      "text": "가치관-명언"
+    },
+    {
+      "source": "/%EB%AA%85%EC%96%B8",
+      "target": "/%EA%B2%BD%EC%98%81-%EB%AA%85%EC%96%B8",
+      "text": "경영-명언"
+    },
+    {
+      "source": "/%EB%AA%85%EC%96%B8",
+      "target": "/%EC%A2%85%EA%B5%90-%EB%AA%85%EC%96%B8",
+      "text": "종교-명언"
+    },
+    {
+      "source": "/%EB%AA%85%EC%96%B8",
+      "target": "/%EB%A7%8C%ED%99%94-%EB%AA%85%EB%8C%80%EC%82%AC",
+      "text": "만화-명대사"
+    },
+    {
+      "source": "/%EB%AA%85%EC%96%B8",
+      "target": "/%EC%98%81%ED%99%94-%EB%AA%85%EB%8C%80%EC%82%AC",
+      "text": "영화-명대사"
+    },
+    {
+      "source": "/%EB%AA%85%EC%96%B8",
+      "target": "/%EA%B5%90%EC%9C%A1-%EB%AA%85%EC%96%B8",
+      "text": "교육-명언"
+    },
+    {
+      "source": "/%EB%AA%85%EC%96%B8",
+      "target": "/%EB%8F%85%EC%84%9C-%EB%AA%85%EC%96%B8",
+      "text": "독서-명언"
+    },
+    {
+      "source": "/%EB%AA%85%EC%96%B8",
+      "target": "/%EA%B8%80%EC%93%B0%EA%B8%B0-%EB%AA%85%EC%96%B8",
+      "text": "글쓰기-명언"
+    },
+    {
+      "source": "/%EB%B0%9C%EB%AA%85",
+      "target": "/%EB%A9%94%EC%9D%B4%EC%BB%A4",
+      "text": "메이커"
+    },
+    {
+      "source": "/%EB%B0%9C%ED%91%9C-%EA%B8%B0%EC%88%A0",
+      "target": "/image-source",
+      "text": "image-source"
+    },
+    {
+      "source": "/%EC%82%AC%ED%9A%8C",
+      "target": "/%EC%A0%95%EC%B9%98",
+      "text": "정치"
+    },
+    {
+      "source": "/%EC%82%AC%ED%9A%8C",
+      "target": "/%EA%B2%BD%EC%A0%9C",
+      "text": "경제"
+    },
+    {
+      "source": "/%EC%82%AC%ED%9A%8C",
+      "target": "/%EC%A2%85%EA%B5%90",
+      "text": "종교"
+    },
+    {
+      "source": "/%EC%82%AC%ED%9A%8C",
+      "target": "/%EB%B6%88%ED%8F%89%EB%93%B1",
+      "text": "불평등"
+    },
+    {
+      "source": "/%EC%82%AC%ED%9A%8C",
+      "target": "/%EA%B5%90%EC%9C%A1",
+      "text": "교육"
+    },
+    {
+      "source": "/%EC%82%AC%ED%9A%8C",
+      "target": "/%EA%B0%80%EC%A0%95",
+      "text": "가정"
+    },
+    {
+      "source": "/%EC%82%AC%ED%9A%8C",
+      "target": "/%EC%84%B1",
+      "text": "성"
+    },
+    {
+      "source": "/%EC%82%AC%ED%9A%8C",
+      "target": "/%EC%A3%BD%EC%9D%8C",
+      "text": "죽음"
+    },
+    {
+      "source": "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0",
+      "target": "/mindmap",
+      "text": "mindmap"
+    },
+    {
+      "source": "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0",
+      "target": "/sound",
+      "text": "sound"
+    },
+    {
+      "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+      "target": "/%EC%B0%BD%EC%9D%98%EC%84%B1",
+      "text": "창의성"
+    },
+    {
+      "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+      "target": "/%EB%B0%9C%ED%91%9C-%EA%B8%B0%EC%88%A0",
+      "text": "발표-기술"
+    },
+    {
+      "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+      "target": "/%ED%98%91%EC%97%85%EB%8F%84%EA%B5%AC",
+      "text": "협업도구"
+    },
+    {
+      "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+      "target": "/%EC%83%9D%EC%82%B0%EC%84%B1-%EA%B0%9C%EC%84%A0",
+      "text": "생산성-개선"
+    },
+    {
+      "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+      "target": "/%EC%B4%88%EA%B3%BC%EA%B7%BC%EB%AC%B4",
+      "text": "초과근무"
+    },
+    {
+      "source": "/%EC%83%9D%EC%82%B0%EC%84%B1",
+      "target": "/multitasking",
+      "text": "multitasking"
+    },
+    {
+      "source": "/%EC%8B%AC%EB%A6%AC",
+      "target": "/%EC%8A%B5%EA%B4%80",
+      "text": "습관"
+    },
+    {
+      "source": "/%EC%8B%AC%EB%A6%AC",
+      "target": "/%EB%8F%99%EA%B8%B0-%EC%9C%A0%EB%B0%9C-%EC%82%AC%EB%A1%80",
+      "text": "동기-유발-사례"
+    },
+    {
+      "source": "/%EC%8B%AC%EB%A6%AC",
+      "target": "/%EC%9A%B4%EB%8F%99",
+      "text": "운동"
+    },
+    {
+      "source": "/%EC%9A%B4%EB%8F%99",
+      "target": "/%EB%8B%AC%EB%A6%AC%EA%B8%B0",
+      "text": "달리기"
+    },
+    {
+      "source": "/%EC%9A%B4%EB%8F%99",
+      "target": "/%EC%95%BC%EA%B5%AC",
+      "text": "야구"
+    },
+    {
+      "source": "/%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-%EA%B8%B0%EB%B2%95",
+      "target": "/%ED%8C%A8%ED%84%B4-%EA%B0%9C%EC%84%A0-%EB%AA%A8%EC%9E%84",
+      "text": "패턴-개선-모임"
+    },
+    {
+      "source": "/%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-%EA%B8%B0%EB%B2%95",
+      "target": "/mindmap",
+      "text": "mindmap"
+    },
+    {
+      "source": "/%EC%B6%94%EC%B2%9C-%EA%B0%95%EC%9D%98",
+      "target": "/%EC%8B%9C%EA%B3%A8%EC%9D%98%EC%82%AC",
+      "text": "시골의사"
+    },
+    {
+      "source": "/%EC%B7%A8%EB%AF%B8",
+      "target": "/camera",
+      "text": "camera"
+    },
+    {
+      "source": "/%EC%B7%A8%EB%AF%B8",
+      "target": "/%EC%88%A0",
+      "text": "술"
+    },
+    {
+      "source": "/%EC%B7%A8%EB%AF%B8",
+      "target": "/%EB%8B%AC%EB%A6%AC%EA%B8%B0",
+      "text": "달리기"
+    },
+    {
+      "source": "/%EC%B7%A8%EB%AF%B8",
+      "target": "/game",
+      "text": "game"
+    },
+    {
+      "source": "/%EC%B7%A8%EB%AF%B8",
+      "target": "/%EB%8F%85%EC%84%9C",
+      "text": "독서"
+    },
+    {
+      "source": "/%ED%86%B5%EA%B3%84%ED%95%99",
+      "target": "/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EB%A1%80",
+      "text": "빅데이터-사례"
+    },
+    {
+      "source": "/%ED%95%99%EC%8A%B5",
+      "target": "/%EC%B6%94%EC%B2%9C-%EA%B0%95%EC%9D%98",
+      "text": "추천-강의"
+    }
+  ]
+}
