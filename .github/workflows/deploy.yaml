@@ -18,7 +18,7 @@ jobs:
         with:
           index: true
           input: content
-          output: assets/indices
+          output: data
           root: .
 
       - name: Setup Hugo
