@@ -1,3 +1,25 @@
+## 회고
+### 2020년 회고
+- 마강휘 님
+    - [2020년 상반기 회고](https://vallista.kr/2020/07/11/2020%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%ED%9A%8C%EA%B3%A0/)
+
+### 2019년 회고
+- 이동욱님
+    - [2019년 상반기 회고](https://jojoldu.tistory.com/436)
+    - [2019 하반기 회고](https://jojoldu.tistory.com/471)
+- 이종립님 : [2019년 회고](https://johngrib.github.io/wiki/review-2019/)
+- 김영재님 : [2019년 성장 회고](https://haviyj.tistory.com/47)
+- [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/)
+
+### 2018년 회고
+- 이동욱님
+    - [2018년 하반기 회고](https://jojoldu.tistory.com/373?category=689637)
+    - [2018년 상반기 회고](https://jojoldu.tistory.com/332?category=689637)
+- [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/memoirs/memoirs2018/)
+
+### 2017년 회고
+- http://blog.devjoshua.me/2017/12/28/171228-2017%EB%85%84%ED%9A%8C%EA%B3%A0/
+
 ## 엔지니어
 
 * [52살 시니어 엔지니어](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=293&aid=0000001526)
