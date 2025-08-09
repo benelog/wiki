@@ -1,0 +1,49 @@
+검색서버 50만대, 검색 1건이면 소형전구 45분간. 1년 전기요금 5천만 달러
+
+    http://gotads.blogspot.com/2006/06/how-many-servers-does-google-have.html[2006년에 분기당 10만대의 서버]를 ,2007년  5천억건의 웹페이지를 인덱싱했다. 2008년 http://googleblog.blogspot.com/2008/07/we-knew-web-was-big.html[1조(兆)개의 웹 페이지를 인덱싱], http://www.pandia.com/sew/481-gartner.html[총 서버 숫자가 100만대]
+
+구글 for 교육자 :
+
+<http://www.google.com/educators/index.html>
+
+한국구글 첫화면에 대한 coding horror blog의 글:
+<http://www.codinghorror.com/blog/archives/000880.html>
+
+[구글 댄스(Google Dance)
+스타트](http://www.palgle.com/2006/09/29/google-dance-go/)
+
+[구글과 관계된 재미있는
+말들](http://www.palgle.com/2005/12/07/google_buzz/)
+
+[구글도 성공의 함정에 빠질
+것이다](http://www.zdnet.co.kr/itbiz/column/anchor/hsryu/0,39030308,39142764,00.htm)
+
+[구글 전용기 IT 외교 선봉에 서다!](http://channy.tistory.com/225)
+
+[구글 Open Social은 성공한다!](http://channy.tistory.com/194)
+
+[구글 오픈 소셜, 단지 생색내기?](http://channy.tistory.com/227)
+
+[구글 소셜 그래프, 웹 기반 SN 띄우나?](http://channy.tistory.com/229)
+
+[구글, 디지털 거실까지
+노리나](http://news.naver.com/main/read.nhn?mode=LSD&sid1=105&mid=sec&oid=092&aid=0001940883)
+
+[Google 오픈 API, 숨겨진
+목적은?](http://channy.creation.net/blog/?p=500)
+
+["오픈소스 위에 세워진 구글, 오픈소스로
+보답"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=022&aid=0000183006)
+
+[Future of Technology](http://mkseo.pe.kr/blog/?p=1843)
+
+[Google’s Innovation Factory: Testing, Culture, And
+Infrastructure](http://docs.google.com/present/view?id=dx5zxb8_7g6knqgxk&interval=5)
+
+[\[책](http://eslife.tistory.com/394)구글드- 우리가 알던 세상의 종말\]
+
+# Google Technology
+
+<http://sites.google.com/a/gtugs.org/seoul/>
+
+<http://www.google.com/apps/intl/en/business/resellers/index.html>

@@ -1,7 +1,7 @@
 http://www.infoq.com/presentations/Good-to-Great-Developer-Chris-Hedgate  
 http://wiki.kldp.org/wiki.php/HowToBeAProgrammer  
 
-==== 업계구조
+## 업계구조
 
 http://www.zdnet.co.kr/itbiz/column/anchor/goodhyun/0,39030292,39149720,00.htm[소프트웨어는 누가 개발해야 하는가?] : 김국현님
 
@@ -35,7 +35,7 @@ http://www.dal.kr/blog/001638.html[컴퓨터공학이 여전히 매력적인 학
 
 http://toby.epril.com/?p=600[위기의 개발자는 내실을 다져야하나?]
 
-==== 아키텍트
+## 아키텍트
 
 http://www.javaworld.com/javaworld/jw-05-2005/jw-0509-architect.html?page=1[Hiring the phantom Java architect]:
 
@@ -63,7 +63,7 @@ http://younghoe.info/1260[아키텍처에 대한 좋은 글 메모]
 
 http://younghoe.info/1287[Architects architect architecture!]
 
-==== 개발자
+## 개발자
 
 http://eclub.inews24.com/php/news_view.php?g_serial=115900&g_menu=049022[진정한 SW 전문가란...'과거형'과 '미래형'의 차이]
 
@@ -113,15 +113,15 @@ http://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF[Humble Programmer]
 
 http://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html[http://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html]
 
-==== 추세
+## 추세
 
 http://news.naver.com/main/read.nhn?mode=LS2D&mid=sec&sid1=105&sid2=230&oid=293&aid=0000001942[국민 정보생산량 해외비해 2배 많다]
 
-==== 아우소싱
+## 아우소싱
 
 http://www.ciobiz.co.kr/news/articleView.html?idxno=2599[[오프쇼어링①]글로벌 아웃소싱 바람 탔지만 ‘반신반의’]
 
-==== IT철학
+## IT철학
 
 http://younghoe.info/1107[IT 활용관을 다룬 극찬할만한 발표]
 
