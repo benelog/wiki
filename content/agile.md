@@ -1,3 +1,5 @@
+[[agile-memo]]
+
 애자일/스크럼 프로젝트는 왜 실패하는가? :
 <http://parkpd.egloos.com/3724780>
 
