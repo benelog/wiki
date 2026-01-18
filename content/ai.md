@@ -1,4 +1,7 @@
 
+* [개발자는 언제쯤 AI에게 대체될까?](https://news.hada.io/topic?id=24907)
+* [AI로 대체될 세계를 준비하는 개발자](https://news.hada.io/topic?id=25759)
+
 ## 컬럼
 * [질문하는 힘](https://www.aladin.co.kr/events/wevent.aspx?EventId=296746)
 	* AI 시대,  아이들에게 필요한 것은  정답이 아니라 질문하는 힘이다
