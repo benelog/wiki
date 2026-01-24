@@ -1,8 +1,9 @@
 
-* [개발자는 언제쯤 AI에게 대체될까?](https://news.hada.io/topic?id=24907)
+## 통찰
+* [개발자는 AI에게 대체될 것인가](https://toss.tech/article/will-ai-replace-developers)
+* [개발자는 언제쯤 AI에게 대체될까?](https://velog.io/@jeonjay/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%96%B8%EC%A0%9C%EC%AF%A4-AI%EC%97%90%EA%B2%8C-%EB%8C%80%EC%B2%B4%EB%90%A0%EA%B9%8C)
+	* (요약) [개발자는 언제쯤 AI에게 대체될까?](https://news.hada.io/topic?id=24907)
 * [AI로 대체될 세계를 준비하는 개발자](https://news.hada.io/topic?id=25759)
-
-## 컬럼
 * [질문하는 힘](https://www.aladin.co.kr/events/wevent.aspx?EventId=296746)
 	* AI 시대,  아이들에게 필요한 것은  정답이 아니라 질문하는 힘이다
 * [골드러시를 넘어:AI가 바꾸는 소프트웨어 개발의 본질](https://www.aladin.co.kr/events/wevent.aspx?EventId=300127)
