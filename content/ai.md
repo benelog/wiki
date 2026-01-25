@@ -1,5 +1,7 @@
 
 ## 통찰
+* [2026 코딩 개발자 생존법 with 앤드류 응(AI의 스승)](https://www.youtube.com/watch?v=vENN6-d_3AQ)
+	* (원본) [Stanford CS230 | Autumn 2025 | Lecture 9: Career Advice in AI](https://www.youtube.com/@stanfordonline)
 * [개발자는 AI에게 대체될 것인가](https://toss.tech/article/will-ai-replace-developers)
 * [개발자는 언제쯤 AI에게 대체될까?](https://velog.io/@jeonjay/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%96%B8%EC%A0%9C%EC%AF%A4-AI%EC%97%90%EA%B2%8C-%EB%8C%80%EC%B2%B4%EB%90%A0%EA%B9%8C)
 	* (요약) [개발자는 언제쯤 AI에게 대체될까?](https://news.hada.io/topic?id=24907)
