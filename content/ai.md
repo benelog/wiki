@@ -22,3 +22,5 @@
 
 > (하용호 님) 가장 중요한 건 PO(Product Owner) 마인드입니다. 모든 멤버가 “이 제품이 어떤 가치를 전달해야 하는가”를 고민해야 합니다. 그리고 극도로 명확한 커뮤니케이션 능력이 필요합니다
 
+## 기업 동향
+* https://opentools.ai/news/george-noble-sounds-alarm-on-openai-falling-apart-in-real-time
