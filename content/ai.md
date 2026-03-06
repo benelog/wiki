@@ -36,4 +36,4 @@
 
 ## 기업 동향
 * https://opentools.ai/news/george-noble-sounds-alarm-on-openai-falling-apart-in-real-time
-* [플랫폼이 되고 싶었던 ChatGPT, 위기에 빠지다](https://outstanding.kr/chatgptcrisis20260128](https://outstanding.kr/chatgptcrisis20260128)
+* [플랫폼이 되고 싶었던 ChatGPT, 위기에 빠지다](https://outstanding.kr/chatgptcrisis20260128)
