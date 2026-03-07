@@ -1,0 +1,8 @@
+title: Benelog's Wiki
+subtitle: wiki.benelog.net
+lang: ko
+content-directory: content
+output-directory: public
+gitHub:
+  repository-url: https://github.com/benelog/wiki
+  content-branch: master

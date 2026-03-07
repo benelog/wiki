@@ -5,37 +5,21 @@ on:
     branches:
       - master
 
+permissions:
+  pages: write
+  id-token: write
+
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+      - uses: benelog/obsidian-site@v1
+      - uses: actions/upload-pages-artifact@v3
         with:
-          fetch-depth: 0
-
-      - name: Build Link Index
-        uses: jackyzha0/hugo-obsidian@v2.20
-        with:
-          index: true
-          input: content
-          output: data
-          root: .
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.96.0'
-          extended: true
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: pages
-          cname: wiki.benelog.net
-
-
+          path: public
+      - id: deploy
+        uses: actions/deploy-pages@v4

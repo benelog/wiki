@@ -1,4 +1,5 @@
 .idea
+public/
 # to exclude Obsidian's settings (including plugin and hotkey configurations)
 .obsidian/
 
