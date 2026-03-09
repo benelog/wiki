@@ -1,4 +1,4 @@
-## 애자일
+## 애자일 의미
 
 * 점진적 설계, CI, TDD ,고객참여 등의 프랙티스
 * process보다는 practice
@@ -9,30 +9,19 @@ comprehensive documentation
 * negotiation 계획을 따르기보다는 변화에 적응 :Responding to change over
 following a plan
 
-# working software
-
-Agile Software Development has as its highest priority the early and
-continuous production of working software.
-
-실행되는 소프트웨어를 빠른시기에, 지속적으로 사용자에게 전달하는 것에
-우선순위를 둔다.
-
-over engineering을 막는다.
-
-실사용자보다는 한은 크나 상세한 내용을 알지 못하는 사람에 의한 스펙
-
-팀간의 경쟁, 과다 스펙
-
-아예 개발을 안 하는 것이 최고의 설계
+## working software
+* Agile Software Development has as its highest priority the early andcontinuous production of working software.
+* 실행되는 소프트웨어를 빠른시기에, 지속적으로 사용자에게 전달하는 것에 우선순위를 둔다.
+* 피하고자 하는 것
+    * over-engineering
+    * 실사용자보다는 권한은 크나 상세한 내용을 알지 못하는 사람에 의한 스펙
+    * 팀간의 경쟁, 과다 스펙
+* 아예 개발을 안 하는 것이 최고의 설계
 
 ## 집중
-
-XP. 주 40시간 근무.
-
-Scrum 스플린트, 스크럼 마스터, 백로그
-
-관리자가 진정해야 하는 일은 사람들에게 일을 시키는 것이 아니라 그들이
-일에 전념할 수 있는 환경을 만들어주는 것이다. -피플웨어
+* XP. 주 40시간 근무.
+* Scrum 스플린트, 스크럼 마스터, 백로그
+* 관리자가 진정해야 하는 일은 사람들에게 일을 시키는 것이 아니라 그들이 일에 전념할 수 있는 환경을 만들어주는 것이다. -피플웨어
 
 집중을 막는것
 
@@ -67,7 +56,7 @@ TDD 디자인기술. 회고력. 자기자신으로부터의 피드백을 더 빨
 - 엘리트 의식
 - 이질성을 허락하고 격려
 
----
+----
 
 이 책은 좋은 소프트웨어 팀들이 공통으로 지닌 것이 무엇인가에 대한 내 개인적연구다*
 
