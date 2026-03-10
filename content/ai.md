@@ -1,5 +1,10 @@
 
 ## 통찰
+* [The Anthropic Hive Mind](https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b)
+    * Anthropic은 전통적 사일로/계층 구조가 아닌 *바이브 기반 즉흥적 협업*으로 운영됨
+    * Golden Age의 조건: "사람보다 일이 많은" 상태 — 일이 줄면 정치가 시작되고 혁신이 죽음
+    * Campfire Model: 스펙 대신 *살아있는 프로토타입*을 중심으로 진화적 개발
+    * 2026년은 AI 미도입 기업에게 위기의 해가 될 것이며, *토큰 소비량*이 조직 학습의 척도
 * [클로드 코드 창시자가 말하는 코딩의 미래](https://eopla.net/magazines/39723)
     * 창시자 보리스 체르니는 2025년 11월 이후로 단 한 줄의 코드도 직접 작성하지 않고 있음. (100% 클로드 코드가)
         * 2월에는 20%, 5월에는 30% 정도
