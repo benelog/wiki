@@ -1,4 +1,14 @@
 ## 기업 동향
+* [Claude Blue - 실리콘밸리 전체가 우울하다](https://brunch.co.kr/@hiclemi/146) (메타 엔지니어인 선배, 실리콘밸리 창업자 친구와의 대화)
+    * 회사에서 Claude Code $2,000 정도 사용. Obidian, Jira, Confluece, Google workspace 연동
+    * 회사 인프라 안정성이 흔들리고 있음
+    * 바이브 코딩 -> 에이언트 오케스트레이션
+    * 전 직군이 AI agent 활용
+    * Opus 4.5, Codex 5.4가 '나를 대체할 수 있겠네'라고 느낀 분기점
+    * 베이스 모델을 가진 회사는 5개 : OpenAI, Antropic, Google, xAI(Grok), Meta
+    * 다음 세대에는 경영자 마인드가 더욱 중요
+    * 창업가 친구의 말 '고객에게는 오늘은 팔고, 투자자에게는 10년을 팔아야 한다. 그런데 10년 후에 우리 모두 침대에 누워있을 것을 너무나도 잘 안다.'\
+    * 인적 관계 형성은 여전히 대면이 중요. AI가 대체할 수 없음
 * [‘라인 코딩의 종말’… 300억 달러 가치 ‘커서(Cursor)’의 소리 없는 전시상황 소식발행일](https://welaunch.kr/post/welaunch/%E2%80%98%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9%EC%9D%98-%EC%A2%85%EB%A7%90%E2%80%99%E2%80%A6-300%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EA%B0%80%EC%B9%98-%E2%80%98%EC%BB%A4%EC%84%9CCursor%E2%80%99%EC%9D%98-%EC%86%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%A0%84%EC%8B%9C%EC%83%81%ED%99%A9)
 * [Is Cursor Profitable Today?](https://mktclarity.com/blogs/news/is-cursor-profitable)
 	* Investment firm **Foundamental** calculates Cursor pays **$650 million** annually to Anthropic while generating only **$500 million** in revenue, creating a **negative 30% gross margin**. 
