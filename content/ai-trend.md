@@ -23,6 +23,12 @@
     * 다음 세대에는 경영자 마인드가 더욱 중요
     * 창업가 친구의 말 '고객에게는 오늘은 팔고, 투자자에게는 10년을 팔아야 한다. 그런데 10년 후에 우리 모두 침대에 누워있을 것을 너무나도 잘 안다.'\
     * 인적 관계 형성은 여전히 대면이 중요. AI가 대체할 수 없음
+* [디즈니 직원의 AI 사용량…한 명이 9일간 ‘46만 번’ 질문](https://www.donga.com/news/Inter/article/all/20260428/133828507/2)
+    * 디즈니와 ESPN 직원 약 4800명이 Cursor와 Claude를 업무에 적극 활용 중이라는 AI 도입 대시보드 사례
+    * 한 직원은 9일 동안 Claude에 약 46만600회 질문했고, 2억3420만 토큰을 사용한 것으로 집계
+    * 같은 기간 전체 사용량은 Claude 31억 토큰, Cursor 133억 토큰으로 추산
+    * 에이전트가 다른 AI 봇에게 연쇄적으로 작업을 맡기면서 토큰 사용량이 폭증하는 구조를 보여줌
+    * 토큰 처리량이 높은 엔지니어를 유능하게 보는 실리콘밸리의 ‘토큰맥싱’ 트렌드 사례
 * [‘라인 코딩의 종말’… 300억 달러 가치 ‘커서(Cursor)’의 소리 없는 전시상황 소식발행일](https://welaunch.kr/post/welaunch/%E2%80%98%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9%EC%9D%98-%EC%A2%85%EB%A7%90%E2%80%99%E2%80%A6-300%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EA%B0%80%EC%B9%98-%E2%80%98%EC%BB%A4%EC%84%9CCursor%E2%80%99%EC%9D%98-%EC%86%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%A0%84%EC%8B%9C%EC%83%81%ED%99%A9)
 * [Is Cursor Profitable Today?](https://mktclarity.com/blogs/news/is-cursor-profitable)
 	* Investment firm **Foundamental** calculates Cursor pays **$650 million** annually to Anthropic while generating only **$500 million** in revenue, creating a **negative 30% gross margin**. 
