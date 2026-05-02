@@ -1,4 +1,6 @@
 ## 기업 동향
+* [Claude Code PM은 어떻게 일하는가 — Cat Wu가 공개한 6개월→1일 출시법](https://www.youtube.com/watch?v=XbvoUS-j2zo)
+	* 'Mission means teams are willling to make sacrifices that hurt their own goals and their own KRs in service of Antrohpic's goals and KRs. And people are  very happy to make those trade-offs. An extreme examle: if Claude Code failed but Anthropic succeed, I woule be extremely happy.'
 * [EP 91. 26.1Q 비즈니스 관점에서의 AI](https://www.youtube.com/watch?v=FPYOVt2B5EM) (AI Frontier, 노정석/최승준, 2026.3.21)
     * 모든 문제를 'compute 기반의 search problem'으로 전환하는 것이 AI 시대의 본질
     * RLVR(검증 가능한 보상 기반 강화학습): 검증 가능한 보상 신호가 있으면 모델은 학습 가능. 수학, 코딩, 의료, 법무로 확장 중
