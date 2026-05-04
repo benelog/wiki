@@ -29,6 +29,12 @@
     * 같은 기간 전체 사용량은 Claude 31억 토큰, Cursor 133억 토큰으로 추산
     * 에이전트가 다른 AI 봇에게 연쇄적으로 작업을 맡기면서 토큰 사용량이 폭증하는 구조를 보여줌
     * 토큰 처리량이 높은 엔지니어를 유능하게 보는 실리콘밸리의 ‘토큰맥싱’ 트렌드 사례
+* [The Pulse: token spend breaks budgets – what next?](https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/) (The Pragmatic Engineer, 2026.4.30)
+    * 15개 기업 인터뷰에서 AI 토큰 비용이 최근 6개월 사이 약 10배 이상 증가한 사례가 반복적으로 확인됨
+    * 대기업은 아직 제한보다 모니터링·저가 모델 기본값·고비용 설정 안내에 머무르는 경우가 많지만, 일부 개발자는 Claude Code에 하루 수백 달러를 쓰는 수준까지 도달
+    * 중견·스타트업은 비용 상승에도 생산성 레버리지가 크다고 보고 “일단 쓰고 측정”하는 전략과, 모델 라우팅·지출 상한·저가 모델 전환으로 억제하는 전략으로 갈림
+    * 비용 급등의 원인으로는 사소한 작업에도 최고가 모델·고노력 설정을 쓰는 관성, AI 사용을 성과평가나 리더보드로 장려하는 조직 문화, 에이전트 사용 확산이 꼽힘
+    * 할인은 Cursor처럼 수백만 달러 규모 지출에서 협상 여지가 있지만 Anthropic은 대규모 고객에도 할인 사례가 드물어, 장기적으로 로컬 모델·모델 추상화·사용량 측정이 대안으로 제시됨
 * [‘라인 코딩의 종말’… 300억 달러 가치 ‘커서(Cursor)’의 소리 없는 전시상황 소식발행일](https://welaunch.kr/post/welaunch/%E2%80%98%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9%EC%9D%98-%EC%A2%85%EB%A7%90%E2%80%99%E2%80%A6-300%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EA%B0%80%EC%B9%98-%E2%80%98%EC%BB%A4%EC%84%9CCursor%E2%80%99%EC%9D%98-%EC%86%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%A0%84%EC%8B%9C%EC%83%81%ED%99%A9)
 * [Is Cursor Profitable Today?](https://mktclarity.com/blogs/news/is-cursor-profitable)
 	* Investment firm **Foundamental** calculates Cursor pays **$650 million** annually to Anthropic while generating only **$500 million** in revenue, creating a **negative 30% gross margin**. 
