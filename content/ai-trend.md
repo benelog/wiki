@@ -1,4 +1,9 @@
 ## 업계 분위기
+* [오픈AI도 보안용 모델 ‘GPT-5.5 사이버’ 제한적으로 공개](https://www.mk.co.kr/news/it/12040941) (매일경제, 2026.5.8)
+    * 오픈AI가 GPT-5.5 기반 사이버보안 특화 모델 `GPT-5.5-사이버`를 제한 프리뷰로 공개
+    * 취약점 진단, 소프트웨어 분석, 모의 침투 테스트, 레드팀 작업 등을 위해 일반 모델보다 보안 관련 응답 가드레일을 완화
+    * 악용 가능성을 줄이기 위해 검증된 보안 조직에만 제한적으로 제공하고, 기존 `TAC(Trusted Access for Cyber)` 프로그램도 GPT-5.5로 확대
+    * OpenAI 자체 CyberGym 벤치마크에서 GPT-5.5-사이버 81.9%, GPT-5.5 81.8%, Claude Opus 4.7 73.1%를 기록했다고 소개
 * [Claude Blue - 실리콘밸리 전체가 우울하다](https://brunch.co.kr/@hiclemi/146) (메타 엔지니어인 선배, 실리콘밸리 창업자 친구와의 대화)
     * 회사에서 Claude Code $2,000 정도 사용. Obidian, Jira, Confluece, Google workspace 연동
     * 회사 인프라 안정성이 흔들리고 있음
