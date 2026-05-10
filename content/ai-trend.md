@@ -57,6 +57,11 @@
 
 ## Token 사용 경향
 
+* ['AI 토큰' 많이 쓸수록 유능한 개발자?…10배 써도 실제 성과는 고작 2배](https://www.digitaltoday.co.kr/news/articleView.html?idxno=663741) (디지털투데이, 2026.5.8)
+    * Jellyfish가 Claude Code 사용자 데이터를 분석한 결과, 상위 10% 개발자는 중간 수준 사용자보다 토큰을 약 10배 더 썼지만 산출물 증가는 약 2배에 그침
+    * AI 활용도가 높은 팀은 낮은 팀보다 풀 리퀘스트 처리량이 약 77% 많아, 도구 도입 효과는 있지만 사용량과 성과가 선형으로 비례하지는 않음
+    * 토큰 사용량만으로 개발자 생산성을 평가하면 모델·설정 차이에 흔들릴 수 있어, 총 토큰보다 `풀 리퀘스트당 비용` 같은 결과 중심 지표가 중요하다고 지적
+    * 여러 AI 에이전트를 병렬로 돌리는 방식은 최적 결과 선택에는 도움이 될 수 있지만, 폐기되는 계산 비용까지 함께 커지는 한계가 있음
 * [The Pulse: token spend breaks budgets – what next?](https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/) (The Pragmatic Engineer, 2026.4.30)
     * 15개 기업 인터뷰에서 AI 토큰 비용이 최근 6개월 사이 약 10배 이상 증가한 사례가 반복적으로 확인됨
     * 대기업은 아직 제한보다 모니터링·저가 모델 기본값·고비용 설정 안내에 머무르는 경우가 많지만, 일부 개발자는 Claude Code에 하루 수백 달러를 쓰는 수준까지 도달
