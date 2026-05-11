@@ -4,16 +4,6 @@
     * 취약점 진단, 소프트웨어 분석, 모의 침투 테스트, 레드팀 작업 등을 위해 일반 모델보다 보안 관련 응답 가드레일을 완화
     * 악용 가능성을 줄이기 위해 검증된 보안 조직에만 제한적으로 제공하고, 기존 `TAC(Trusted Access for Cyber)` 프로그램도 GPT-5.5로 확대
     * OpenAI 자체 CyberGym 벤치마크에서 GPT-5.5-사이버 81.9%, GPT-5.5 81.8%, Claude Opus 4.7 73.1%를 기록했다고 소개
-* [Claude Blue - 실리콘밸리 전체가 우울하다](https://brunch.co.kr/@hiclemi/146) (메타 엔지니어인 선배, 실리콘밸리 창업자 친구와의 대화)
-    * 회사에서 Claude Code $2,000 정도 사용. Obidian, Jira, Confluece, Google workspace 연동
-    * 회사 인프라 안정성이 흔들리고 있음
-    * 바이브 코딩 -> 에이언트 오케스트레이션
-    * 전 직군이 AI agent 활용
-    * Opus 4.5, Codex 5.4가 '나를 대체할 수 있겠네'라고 느낀 분기점
-    * 베이스 모델을 가진 회사는 5개 : OpenAI, Antropic, Google, xAI(Grok), Meta
-    * 다음 세대에는 경영자 마인드가 더욱 중요
-    * 창업가 친구의 말 '고객에게는 오늘은 팔고, 투자자에게는 10년을 팔아야 한다. 그런데 10년 후에 우리 모두 침대에 누워있을 것을 너무나도 잘 안다.'
-    * 인적 관계 형성은 여전히 대면이 중요. AI가 대체할 수 없음
 * [EP 91. 26.1Q 비즈니스 관점에서의 AI](https://www.youtube.com/watch?v=FPYOVt2B5EM) (AI Frontier, 노정석/최승준, 2026.3.21)
     * 모든 문제를 'compute 기반의 search problem'으로 전환하는 것이 AI 시대의 본질
     * RLVR(검증 가능한 보상 기반 강화학습): 검증 가능한 보상 신호가 있으면 모델은 학습 가능. 수학, 코딩, 의료, 법무로 확장 중
@@ -26,18 +16,25 @@
     * 에이전트 시대 인재: 모호한 목표를 명확히 정의하는 능력, 사업가적 감각, 도메인 이해 기반 프롬프트 작성
     * Prompt Injection 위협 → VM 격리, 제한된 접근 권한으로 완화
     * "요트 경기처럼 바뀌는 시장 환경에 따라가야 한다" - 기술적 우월성보다 변화에 따른 방향 전환 속도가 승패를 결정
+* [Claude Blue - 실리콘밸리 전체가 우울하다](https://brunch.co.kr/@hiclemi/146) (브런치, 2026.3.18)
+    * 회사에서 Claude Code $2,000 정도 사용. Obidian, Jira, Confluece, Google workspace 연동
+    * 회사 인프라 안정성이 흔들리고 있음
+    * 바이브 코딩 -> 에이언트 오케스트레이션
+    * 전 직군이 AI agent 활용
+    * Opus 4.5, Codex 5.4가 '나를 대체할 수 있겠네'라고 느낀 분기점
+    * 베이스 모델을 가진 회사는 5개 : OpenAI, Antropic, Google, xAI(Grok), Meta
+    * 다음 세대에는 경영자 마인드가 더욱 중요
+    * 창업가 친구의 말 '고객에게는 오늘은 팔고, 투자자에게는 10년을 팔아야 한다. 그런데 10년 후에 우리 모두 침대에 누워있을 것을 너무나도 잘 안다.'
+    * 인적 관계 형성은 여전히 대면이 중요. AI가 대체할 수 없음
 
 ## 기업 전망
-* [‘라인 코딩의 종말’… 300억 달러 가치 ‘커서(Cursor)’의 소리 없는 전시상황 소식발행일](https://welaunch.kr/post/welaunch/%E2%80%98%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9%EC%9D%98-%EC%A2%85%EB%A7%90%E2%80%99%E2%80%A6-300%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EA%B0%80%EC%B9%98-%E2%80%98%EC%BB%A4%EC%84%9CCursor%E2%80%99%EC%9D%98-%EC%86%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%A0%84%EC%8B%9C%EC%83%81%ED%99%A9)
+* [‘라인 코딩의 종말’… 300억 달러 가치 ‘커서(Cursor)’의 소리 없는 전시상황](https://welaunch.kr/post/welaunch/%E2%80%98%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9%EC%9D%98-%EC%A2%85%EB%A7%90%E2%80%99%E2%80%A6-300%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EA%B0%80%EC%B9%98-%E2%80%98%EC%BB%A4%EC%84%9CCursor%E2%80%99%EC%9D%98-%EC%86%8C%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%A0%84%EC%8B%9C%EC%83%81%ED%99%A9) (Welaunch, 2026.3.6)
 	* 커서가 연매출 20억 달러로 성장했지만 Anthropic의 Claude Code(25억 달러)에게 추월당함
 	* Anthropic의 자율형 코딩 에이전트 확산으로 에디터 기반 비즈니스 모델이 위협받는 상황
 	* CEO는 "최고의 코딩 모델 개발"을 최우선 과제로 선언하며 독자 모델 개발에 집중
 	* 중국 오픈소스 모델 기반 '컴포저(Composer)' 개발, 수백 개 에이전트 협업 시스템 준비 중
 	* 엔터프라이즈 시장 확보와 독립적 모델 경쟁력이 300억 달러 가치 유지의 관건
-* [Is Cursor Profitable Today?](https://mktclarity.com/blogs/news/is-cursor-profitable)
-	* Investment firm **Foundamental** calculates Cursor pays **$650 million** annually to Anthropic while generating only **$500 million** in revenue, creating a **negative 30% gross margin**. 
-	* 투자 회사 파운다멘탈(Foundamental)의 계산에 따르면, 커서(Cursor)는 5억 달러의 매출을 올리는 동안 앤스로픽(Anthropic)에 연간 6억 5천만 달러를 지불하여 **-30%**의 매출총이익률을 기록하고 있습니다.
-* [Cursor Goes To War For AI Coding Dominance](https://www.forbes.com/sites/annatong/2026/03/05/cursor-goes-to-war-for-ai-coding-dominance/)
+* [Cursor Goes To War For AI Coding Dominance](https://www.forbes.com/sites/annatong/2026/03/05/cursor-goes-to-war-for-ai-coding-dominance/) (Forbes, 2026.3.5)
 	* **보조금 논란:** 앤스로픽이 자사 에이전트 서비스(예: 월 200달러 플랜)를 실제 컴퓨팅 비용보다 훨씬 저렴하게 제공함으로써 시장 점유율을 확보하려 한다는 '보조금 전략' 의혹
 * [AI Tooling for Software Engineers in 2026(2026.3.4)](https://newsletter.pragmaticengineer.com/p/ai-tooling-2026)
 	* Claude Code가 2025년 5월 출시 후 8개월 만에 GitHub Copilot과 Cursor를 제치고 "가장 많이 사용되는 AI 코딩 도구"로 등극
@@ -45,15 +42,18 @@
 	* 응답자의 55%가 정기적으로 AI 에이전트를 사용. Staff+ 엔지니어가 가장 활발한 사용층
 	* 회사 규모에 따라 선택 차이: 소규모는 Claude Code(75%) 선호, 대규모(10,000명+) 기업은 GitHub Copilot(56%) 선호
 	* Anthropic의 Opus·Sonnet 모델이 코딩 작업에서 다른 모든 모델을 합친 것보다 더 많이 언급됨
-* [Feb 2026: Claude share has surged to ~70%.](https://x.com/Yuchenj_UW/status/2028974344710606905)
+* [Feb 2026: Claude share has surged to ~70%.](https://x.com/Yuchenj_UW/status/2028974344710606905) (Yuchen Jin/X, 2026.3.3)
 	* OpenRouter 등 라우팅 데이터 기준, 2026년 2월 기준 Claude의 점유율이 약 70%까지 급증했다는 관측
-* https://opentools.ai/news/george-noble-sounds-alarm-on-openai-falling-apart-in-real-time
+* [플랫폼이 되고 싶었던 ChatGPT, 위기에 빠지다](https://outstanding.kr/chatgptcrisis20260128) (아웃스탠딩, 2026.1.28)
+* [George Noble Sounds Alarm on OpenAI: 'Falling Apart in Real Time'](https://opentools.ai/news/george-noble-sounds-alarm-on-openai-falling-apart-in-real-time) (OpenTools, 2026.1.21)
 	* George Noble의 경고: OpenAI가 분기 손실 120억 달러를 기록 중이며 2027년 중반까지 파산 가능성까지 거론됨
 	* Google Gemini가 ChatGPT를 추월(사용자 6억 5천만)하며 시장 점유율 급감
 	* CTO Mira Murati, Chief Scientist Ilya Sutskever 등 핵심 인물 이탈로 혁신 동력 약화
 	* 2025년 12월 'Code Red' 발령, 직원들에게 핵심 업무에만 집중하라는 지시
 	* Sora 비디오 서비스가 일일 1,500만 달러를 소모, 2030년 매출 2,000억 달러 목표 달성 어려운 구조
-* [플랫폼이 되고 싶었던 ChatGPT, 위기에 빠지다](https://outstanding.kr/chatgptcrisis20260128)
+* [Is Cursor Profitable Today?](https://mktclarity.com/blogs/news/is-cursor-profitable)
+	* Investment firm **Foundamental** calculates Cursor pays **$650 million** annually to Anthropic while generating only **$500 million** in revenue, creating a **negative 30% gross margin**. 
+	* 투자 회사 파운다멘탈(Foundamental)의 계산에 따르면, 커서(Cursor)는 5억 달러의 매출을 올리는 동안 앤스로픽(Anthropic)에 연간 6억 5천만 달러를 지불하여 **-30%**의 매출총이익률을 기록하고 있습니다.
 
 ## Token 사용 경향
 
