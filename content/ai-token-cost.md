@@ -1,4 +1,4 @@
-## Token 사용 경향
+## 2026년 5월
 
 * [[AI 프리즘] 높아지는 AI 사용료…차세대 하드웨어 투입해도 가격 낮추기 어려워](http://www.wikileaks-kr.org/news/articleView.html?idxno=187704) (위키리크스한국, 2026.5.23)
     * 생성형 AI 서비스가 추론 수요와 인프라 비용 증가로 비싸지고 있으며, 차세대 GPU·AI 가속기가 투입되어도 사용자가 곧바로 비용 절감을 체감하기는 어렵다고 설명
@@ -93,6 +93,9 @@
     * 브라이언 카탄자로의 "컴퓨팅 비용이 직원 비용을 훨씬 넘어선다"는 발언과 포천·MIT 연구 사례를 들어 AI 자동화의 경제성이 업무별로 다를 수 있음을 지적
     * 앤트로픽 Claude Enterprise와 GitHub Copilot이 정액제 중심에서 사용량 기반 과금으로 이동하며, AI 기업의 수익성 압박이 요금 체계 변화로 이어진다고 설명
     * 기업 대응책으로 직군별 토큰 할당·승인제, 업무 난도에 따른 모델 구분, 불필요한 장문 입력·반복 호출을 줄이는 내부 가이드라인을 제안
+
+## 2026년 4월
+
 * [The Pulse: token spend breaks budgets – what next?](https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/) (The Pragmatic Engineer, 2026.4.30)
     * 15개 기업 인터뷰에서 AI 토큰 비용이 최근 6개월 사이 약 10배 이상 증가한 사례가 반복적으로 확인됨
     * 대기업은 아직 제한보다 모니터링·저가 모델 기본값·고비용 설정 안내에 머무르는 경우가 많지만, 일부 개발자는 Claude Code에 하루 수백 달러를 쓰는 수준까지 도달
