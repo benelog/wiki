@@ -1,5 +1,6 @@
 ## 업계 분위기
-* [오픈AI 내부 Codex 사용 데이터 정리](https://www.threads.com/@choi.openai/post/DaAlN9dj9lV?xmt=AQG0jdOrNTfkvPG6SZyW2ZE4i1wcZnUpdtpWHG2OAazTvsMj1yZKA_0OIJSvYcMVZHbpQx4&slof=1) (CHOI/Threads, 2026.6.25)
+* [오픈AI 내부 Codex 사용 데이터 정리](https://www.threads.com/@choi.openai/post/DaAlN9dj9lV) (CHOI/Threads, 2026.6.25)
+    * Thread 원문: [1](https://www.threads.com/@choi.openai/post/DaAlOjkDz5l), [2](https://www.threads.com/@choi.openai/post/DaAlPiOj5-z), [3](https://www.threads.com/@choi.openai/post/DaAlQHBDzYJ), [4](https://www.threads.com/@choi.openai/post/DaAlRJRD-kb)
     * OpenAI 경제연구팀의 `The Shift to Agentic AI: Evidence from Codex` 논문을 바탕으로, OpenAI 내부 직원의 ChatGPT·Codex 합산 결과물 토큰 중 99.8%가 Codex에서 나온다고 정리
     * 개인 사용자는 최근 28일 Codex 사용자가 0.7%에 그쳤지만 작업량 비중은 16.5%, 조직은 사용자 비율 17.3%에 작업량 비중 63.3%로 `적은 채택자·깊은 사용` 패턴을 보인다고 소개
     * 비개발자 Codex 사용자가 개발자보다 빠르게 늘었고, 법무·재무·리크루팅 같은 부서도 2026년 4월 전후 다수 전환되며 코딩 도구가 직무 경계를 넘는 업무 에이전트로 쓰인다고 해석
