@@ -1,4 +1,9 @@
 ## 업계 분위기
+* [오픈AI 내부 Codex 사용 데이터 정리](https://www.threads.com/@choi.openai/post/DaAlN9dj9lV?xmt=AQG0jdOrNTfkvPG6SZyW2ZE4i1wcZnUpdtpWHG2OAazTvsMj1yZKA_0OIJSvYcMVZHbpQx4&slof=1) (CHOI/Threads, 2026.6.25)
+    * OpenAI 경제연구팀의 `The Shift to Agentic AI: Evidence from Codex` 논문을 바탕으로, OpenAI 내부 직원의 ChatGPT·Codex 합산 결과물 토큰 중 99.8%가 Codex에서 나온다고 정리
+    * 개인 사용자는 최근 28일 Codex 사용자가 0.7%에 그쳤지만 작업량 비중은 16.5%, 조직은 사용자 비율 17.3%에 작업량 비중 63.3%로 `적은 채택자·깊은 사용` 패턴을 보인다고 소개
+    * 비개발자 Codex 사용자가 개발자보다 빠르게 늘었고, 법무·재무·리크루팅 같은 부서도 2026년 4월 전후 다수 전환되며 코딩 도구가 직무 경계를 넘는 업무 에이전트로 쓰인다고 해석
+    * 에이전트 시대에는 활성 사용자 수나 채팅 수보다 난이도 높은 위임, 에이전트 실행 시간, 동시 작업 수, 재사용 가능한 스킬 사용 같은 지표가 중요해진다고 요약
 * [“더 공부하라는 말은 거짓말이 되었다”…AI가 끊어버린 사다리](https://n.news.naver.com/article/056/0012191187) (KBS/네이버, 2026.5.31)
     * 샘 올트먼은 ChatGPT 공개 초기 예상과 달리 초급 사무직 일자리가 대거 사라지지 않았고, 인간적 상호작용의 가치는 AI가 대체하기 어렵다고 낙관론을 제시
     * 기사는 Anthropic 노동시장 보고서를 근거로, 기업이 기존 인력을 대량 해고하기보다 신규 채용을 줄이는 방식으로 AI 대체를 우회하고 있다고 해석
