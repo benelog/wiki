@@ -1,4 +1,12 @@
 ## 업계 분위기
+* [“앤트로픽은 사상 집단이다” 클로드 코드의 아버지, 보리스 체르니 인터뷰 (후편)](https://longblack.co/note/2069) (NewsPicks/롱블랙, 2026.7.30)
+    * 클로드 코드 창시자 보리스 체르니는 앤트로픽이 AI 업계 정점에 오른 핵심을 `사상`과 조직 문화로 설명한다.
+    * 전편의 클로드 코드 탄생 비화와 SaaS 변화 논의에 이어, 후편은 AI 에이전트를 업무 워크플로우 중심에 두는 기업 운영 방식을 다룬다.
+    * 클로드 코드가 2025년 5월을 기점으로 기하급수적으로 성장했고, 최신 모델 Mythos를 실제 개발 현장에서 쓰는 체르니는 AI가 모든 것을 만드는 시대의 인간 역할에 두려움도 느낀다고 말한다.
+* [앤트로픽을 최강의 AI 기업으로 만든 남자, 보리스 체르니 인터뷰 (전편)](https://longblack.co/note/2062) (NewsPicks/롱블랙, 2026.7.23)
+    * 클로드 코드를 앤트로픽의 핵심 제품으로 소개하며, 보리스 체르니가 거의 혼자서 제품을 기획하고 초기 코드를 짜기 시작한 배경을 다룬다.
+    * 체르니가 인스타그램 원격 근무 엔지니어로 일본 나라현에 살던 시절, SF 독서와 기술의 양면성에 대한 문제의식이 이후 행보에 영향을 준 맥락을 소개한다.
+    * 인터뷰 전편은 클로드 코드 탄생 비화, Mythos 같은 최신 AI 모델의 영향, 미래 비즈니스 변화 전망을 후편으로 이어지는 주제로 제시한다.
 * [오픈AI 내부 Codex 사용 데이터 정리](https://www.threads.com/@choi.openai/post/DaAlN9dj9lV) (CHOI/Threads, 2026.6.25)
     * Thread 원문: [1](https://www.threads.com/@choi.openai/post/DaAlOjkDz5l), [2](https://www.threads.com/@choi.openai/post/DaAlPiOj5-z), [3](https://www.threads.com/@choi.openai/post/DaAlQHBDzYJ), [4](https://www.threads.com/@choi.openai/post/DaAlRJRD-kb)
     * OpenAI 경제연구팀의 `The Shift to Agentic AI: Evidence from Codex` 논문을 바탕으로, OpenAI 내부 직원의 ChatGPT·Codex 합산 결과물 토큰 중 99.8%가 Codex에서 나온다고 정리
