@@ -24,7 +24,7 @@ SDS에서 진행했던 프레임웍 공부모임(프레임워크 연구회) 기�
 - 내용
     - Java Tip & Tech에서 찾은 유용한 API들 - 이호연
     - 아부의 기술 - 정동인
-    - [유지보수를 어렵게 하는 것들](https://github.com/benelog/devnote/wiki/%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98%EB%A5%BC-%ED%9E%98%EB%93%A4%EA%B2%8C-%ED%95%98%EB%8A%94-%EA%B2%83%EB%93%A4(SDS)) - 정상혁
+    - [유지보수를 힘들게 하는 것들](https://presentations.benelog.net/20070210-hard-to-maintain-code/) - 정상혁
     - Java 기초 이야기 : [Java의 호출은 pass by value](https://github.com/benelog/devnote/wiki/java-pass-by-value) - 정상혁
 
 ## 4차모임
