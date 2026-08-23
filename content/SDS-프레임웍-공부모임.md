@@ -14,7 +14,7 @@ SDS에서 진행했던 프레임웍 공부모임(프레임워크 연구회) 기�
     - 장책임님의 SOA 관련 강의 - 장세영 책임님 (SA팀)
     - Silencing Conflict at Work - 신황규
     - The Goal - 전상우
-    - [The Goal 감상문](http://benelog.egloos.com/900996) - 정상혁
+    - [The Goal 감상문](https://blog.benelog.net/900996) - 정상혁
     - Code challenge
     - Coding 도장
 
@@ -32,7 +32,7 @@ SDS에서 진행했던 프레임웍 공부모임(프레임워크 연구회) 기�
 - 일시 : 2007/03/31 (토) 14:00 ~
 - 내용
     - [070331] 프레임워크연구회 - 웹표준과 DDD - 최효근
-    - [HTML & CSS 정리해본 예](http://benelog.egloos.com/1314658)
+    - [HTML & CSS 정리해본 예](https://blog.benelog.net/1314658)
     - Java의 Dynamic Proxy를 이용한 AOP - 정상혁
 
 ## 5차모임
@@ -40,9 +40,9 @@ SDS에서 진행했던 프레임웍 공부모임(프레임워크 연구회) 기�
 - 일시 : 2007/05/26 (토) 13:00
 - 내용
     - Code can be an art 행사참가기 - 정상혁
-    - [코드와 예술](http://benelog.egloos.com/1230312)
-    - [QB로 만든 Code can be an art 출력](http://benelog.egloos.com/1230429)
-    - [Code can be an art 행사 참석 후기](http://benelog.egloos.com/1231656)
+    - [코드와 예술](https://blog.benelog.net/1230312)
+    - [QB로 만든 Code can be an art 출력](https://blog.benelog.net/1230429)
+    - [Code can be an art 행사 참석 후기](https://blog.benelog.net/1231656)
     - Web단에서의 파라미터 추출 - 정상혁
 
 ## 6차모임
