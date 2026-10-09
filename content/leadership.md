@@ -19,6 +19,8 @@ tags: #경영 #조직관리
 
 ## 남다른 조직장이 믿는 8가지 핵심.
 
+- 원문: [8 Core Beliefs from Top CEO's!](https://www.cbt.edu/?p=2199) (Geoffrey James)
+
 최고의 관리자들은 일터와 회사, 팀의 원동력을 근본적으로 다르게 이해합니다. 그들이 무엇을 명확하게 받아들였는지 봅시다.
   
 
