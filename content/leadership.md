@@ -11,6 +11,11 @@ tags: #경영 #조직관리
 - [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 
 ## 리더쉽
+- [그들이 당신을 좋아합니까?](https://brunch.co.kr/@javajigi/61)
+  - 옳은 메시지라도 구성원의 현실과 고충을 이해하지 못한 채 전달하면 변화의 제안이 아니라 공격이나 부담으로 받아들여질 수 있다.
+  - 구성원을 믿지 못해 위임하지 못하고 직접 일을 떠안는 악순환의 뿌리에는 라포와 신뢰의 부재가 있다.
+  - 권위나 전문성보다 리더를 닮고 싶고 함께하고 싶게 만드는 참조적 권력(Referent Power)이 자발적인 오너십을 이끈다.
+  - 메시지를 다듬기 전에 구성원의 이야기를 듣고, 작은 약속과 공감으로 신뢰를 쌓으며, 자신이 옳다는 확신보다 관심과 존중을 앞세워야 한다.
 - [리더의 한계를 이해하기](http://jamestic.egloos.com/1995722 "http://jamestic.egloos.com/1995722")
 - [사이먼 시넥: 위대한 리더들이 행동을 이끌어내는 법](http://www.ted.com/talks/lang/kor/simon_sinek_how_great_leaders_inspire_action.html "http://www.ted.com/talks/lang/kor/simon_sinek_how_great_leaders_inspire_action.html")
 - [내가 생각하는 리더의 조건](http://sungmooncho.com/2011/01/23/leader/ "http://sungmooncho.com/2011/01/23/leader/")
